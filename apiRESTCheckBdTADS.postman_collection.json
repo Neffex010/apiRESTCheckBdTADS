@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "00ad7e1b-ae2a-4efd-811e-8b81c04d8e63",
+		"name": "apiRESTCheckBdTADS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48033501"
+	},
+	"item": [
+		{
+			"name": "Pruebas generales",
+			"item": [
+				{
+					"name": "getMySqlConnectionCheckBd",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44303/check/checkbd/mysqlconectioncheckbd",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44303",
+							"path": [
+								"check",
+								"checkbd",
+								"mysqlconectioncheckbd"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
