@@ -20,4 +20,4 @@
 📅 *(25, 09, 2025)*
 
 ## Conclusiones
-## Esta actividad me parecio muy interesante de como podemos realizar conexiones a MySQL desde una aplicacion .NET y que tambien me servira de mucho para futuras practicas de la materia
+## Esta actividad me parecio muy interesante de como podemos realizar conexiones a MySQL desde una aplicacion .NET y que tambien me servira de mucho para futuras practicas de la materia y en el ambito laboral 
